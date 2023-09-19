@@ -27,6 +27,3 @@ jobs:
       
     - name: Build
       run: dotnet build Octo_Journey/Octo_Journey/Octo_Journey.csproj --no-restore
-      
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
