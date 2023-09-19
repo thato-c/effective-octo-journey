@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octo_Journey", "Octo_Journey\Octo_Journey.csproj", "{F6F5EDB6-8780-4E5D-BBF5-996B7BDF0760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F5EDB6-8780-4E5D-BBF5-996B7BDF0760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F5EDB6-8780-4E5D-BBF5-996B7BDF0760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F5EDB6-8780-4E5D-BBF5-996B7BDF0760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F5EDB6-8780-4E5D-BBF5-996B7BDF0760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE599892-5DD4-4B31-9FC5-68FDD49B958A}
+	EndGlobalSection
+EndGlobal
